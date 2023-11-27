@@ -375,6 +375,10 @@
           href: core/miscellaneous/internals/index.md
         - name: Design-time tools
           href: core/miscellaneous/internals/tools.md
+        - name: Migrations
+          href: core/miscellaneous/internals/migrations.md
+        - name: Scaffolding
+          href: core/miscellaneous/internals/scaffolding.md
 
     - name: Database providers
       items:
